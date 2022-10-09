@@ -16,7 +16,17 @@
     background-color: #eafdfd;
 
 }
-
+.btn-review-items{
+    background-color: #FF9900;
+    border: none;
+    border-radius: 8px;
+    font-weight: 500;
+    font-size: 18px;
+    color: white;
+    width: 80%;
+    height: 40px;
+    margin-top: 10px;
+}
 @media screen and (max-width:992px) {
     .shop-container{
         grid-template-columns: 3fr 1fr;

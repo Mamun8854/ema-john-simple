@@ -20,6 +20,10 @@
     border-radius: 8px;
     font-size: medium;
     padding-left: 10px;
+    border: none;
+    color: white;
+    background-color: rgb(159, 157, 157);
+   
 }
 .form-control label{
     display: block;

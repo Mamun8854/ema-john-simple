@@ -1,0 +1,11 @@
+.btn-shipping{
+    background-color: #FF9900;
+    border: none;
+    border-radius: 8px;
+    font-weight: 500;
+    font-size: 18px;
+    color: white;
+    width: 80%;
+    height: 40px;
+    margin-top: 10px;
+}
